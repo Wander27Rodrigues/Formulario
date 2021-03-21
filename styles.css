@@ -19,7 +19,8 @@
     }
     
     legend {
-        position: relative;
+        padding-top: 2em;
+        margin-right: auto;
         font-family: 'poppins';
         font-weight: bold;
         font-size: medium;
