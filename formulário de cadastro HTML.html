@@ -184,7 +184,7 @@
             <label for="pass">Senha: </label>
           </td>
           <td align="left">
-            <input type="password" name="pass" required>
+            <input type="password" name="pass" maxlength="8" minlength="2" required placeholder="Digite sua senha de 8 numeros">
           </td>
         </tr>
         <tr>
@@ -198,8 +198,8 @@
       </table>
     </fieldset>
     <br />
-    <input type="submit">
-    <input type="reset" value="Limpar">
+    <input  class="button-reset" type="reset" value="Limpar">
+    <input  class="button" type="submit">    
   </form>
 
 </body>
