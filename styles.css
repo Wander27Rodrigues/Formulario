@@ -1,0 +1,57 @@
+@media (min-width: 900px){
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body {
+        
+        background: linear-gradient(rgb(255, 255, 255), #c88dff);
+    }
+    
+    title, h1,h2 {
+        font-family: 'poppins';
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+    
+    }
+    
+    legend {
+        position: relative;
+        font-family: 'poppins';
+        font-weight: bold;
+        font-size: medium;
+        color: rgb(255, 255, 255);
+    }
+    
+    fieldset{
+        padding: 1rem;
+        text-align: left;
+        border-radius: 05;
+        background-color: #49246b;
+    }
+    
+    label {
+        font-family: 'poppins';
+        color: aliceblue;
+    }
+    
+    .data {
+        color: aqua;
+    }
+    input{
+        
+        border-radius: 05;
+        
+    }
+
+
+
+        
+}
+
+
+
+
