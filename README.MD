@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="Form" src="assets/formulario.png" width="100%">
+  <img  src="./assets/formulario.PNG" width="100%" alt="Form" >
 </p>
